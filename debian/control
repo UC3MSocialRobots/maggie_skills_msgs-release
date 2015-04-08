@@ -1,0 +1,12 @@
+Source: ros-hydro-maggie-skills-msgs
+Section: misc
+Priority: extra
+Maintainer: Raul Perula-Martinez <raul.perula@uc3m.es>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://wiki.ros.org/maggie_skills_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-maggie-skills-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-basic-states-skill-msgs, ros-hydro-batteries-skill-msgs, ros-hydro-touch-skill-msgs
+Description: maggie_skills_msgs metapackage
