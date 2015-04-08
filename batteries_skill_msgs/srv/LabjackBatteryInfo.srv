@@ -1,0 +1,6 @@
+#
+# Current value of the battery voltage
+#
+
+---
+float32 voltage
