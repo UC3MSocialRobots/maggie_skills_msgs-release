@@ -1,0 +1,12 @@
+Source: ros-hydro-basic-states-skill-msgs
+Section: misc
+Priority: extra
+Maintainer: Raul Perula-Martinez <raul.perula@uc3m.es>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-message-runtime
+Homepage: http://wiki.ros.org/basic_states_skill_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-basic-states-skill-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-message-generation, ros-hydro-message-runtime
+Description: basic_states_skill messages and services
