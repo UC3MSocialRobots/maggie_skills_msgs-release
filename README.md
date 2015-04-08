@@ -1,13 +1,6 @@
-# maggie_skills_msgs
+# batteries_skill_msgs
 
-GitHub repository for the messages of the skills for the Social Robot Maggie.
-
-## CONTENT
-
-- `basic_states_skill_msgs`: a ROS package with the messages and services to communicate with the labjack device.
-- `batteries_skill_msgs`: a ROS package with the messages and services to communicate with the labjack device.
-- `maggie_skills_msgs`: a ROS metapackage.
-- `touch_skill_msgs`: a ROS package with the messages and services to communicate with the labjack device.
+ROS package for the messages of the batteries skill for the Social Robot Maggie.
 
 ## LICENSE
 
