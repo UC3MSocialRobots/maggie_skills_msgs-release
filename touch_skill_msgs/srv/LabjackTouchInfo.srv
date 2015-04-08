@@ -1,6 +1,0 @@
-#
-# Current value of the touch sensors 
-#
-
----
-int32[11] sensors_status
